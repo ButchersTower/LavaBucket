@@ -1,0 +1,15 @@
+Get a better understanding of the normal of of a plane.
+
+How to give planes a directional orientation? Using l seems to do that with + and -
+
+Lighting is weird in that opposing faces are matching in that dark and light.
+
+like it isn't basing lighting off of the sides position right before it draws
+	but either a preconceived face or its taking the normal of some faces in
+	the wrong direction. 
+
+It is lighting the right intead of the left. I need to see how the  premade
+	program projects the points, i might be doing it like backwards.
+
+Organize the programs i am currently working on into pocketDrag.
+	
