@@ -1,4 +1,4 @@
-package lavaBucket;
+package LavaBucket;
 
 public class Vect3d {
 	static float dot(float[] a, float[] b) {

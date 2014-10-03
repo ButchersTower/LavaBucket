@@ -1,4 +1,4 @@
-package lavaBucket;
+package LavaBucket;
 
 import javax.swing.JFrame;
 

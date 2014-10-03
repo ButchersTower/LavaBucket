@@ -1,4 +1,4 @@
-package lavaBucket;
+package LavaBucket;
 
 public class Model {
 	float[][] points;
