@@ -6,11 +6,13 @@ public class LavaBucket extends JFrame {
 	public LavaBucket() {
 		JFrame frame = new JFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setContentPane(new Isometric());
+		// frame.setContentPane(new Persp());
+		// frame.setContentPane(new Height().getPanel());
+		frame.setContentPane(new Trees());
 		frame.pack();
 		frame.setVisible(true);
 		frame.setResizable(false);
-		// frame.setLocationRelativeTo(null);
+		frame.setLocationRelativeTo(null);
 		frame.setTitle("LavaBucket");
 	}
 
